@@ -21,7 +21,7 @@
 
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/curso_IA/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/curso_IA">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/curso_IA">
 
-- <img width="2%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> Jupyter Notebooks
+- <img width="2%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"> Jupyter Notebooks
 - <img width="2%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"> Python
   - Libraries:
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/Pandas_logo.png"> Pandas
@@ -32,7 +32,7 @@
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/OpenCV_logo.png"> OpenCV
 <br>
 
-Además, creé 2 repositorios con pasos para instalar extensiones para Jupyter Notebooks y para la instalación de diferentes bibliotecas:
+### Además, creé 2 repositorios con pasos para instalar extensiones para Jupyter Notebooks y para la instalación de diferentes bibliotecas:
 - [Installing jupyter_contrib_nbextensions](https://github.com/pauladanielafarias/jupyter_contrib_nbextensions)
 - [Installing python packages and libraries](https://github.com/pauladanielafarias/python_libraries/)
 
