@@ -10,8 +10,6 @@
 
 ### Algunos ejercicios que realicé a lo largo del curso de Inteligencia Artificial brindado por BA Ciudad, UTN & Intel.
 
-#### Some exercises that I did throughout the Artificial Intelligence course offered by BA Ciudad, UTN & Intel.
-
 1. [Introducción a Python](): Notebook que contiene algunos ejercicios para repasar Python.
 2. [Datasets](): Notebook en la que se trabaja la importación y procesamiento de datos. Uso de la biblioteca ```pandas```.
 3. [Adquisición de datos](): Notebook en la que se trabaja la adquisición de datos. Uso de las bibliotecas ```pandas```,```numpy```,```matplotlib``` y ```sklearn```.
@@ -32,7 +30,12 @@
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/TensorFlow_logo.png"> TensorFlow
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/OpenCV_logo.png"> OpenCV
 <br>
-    
+
+Además, creé 2 repositorios con pasos para instalar extensiones para Jupyter Notebooks y para la instalación de diferentes bibliotecas:
+- [Installing jupyter_contrib_nbextensions](https://github.com/pauladanielafarias/jupyter_contrib_nbextensions)
+- [Installing python packages and libraries](https://github.com/pauladanielafarias/python_libraries/)
+
+
 #### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias)
 
 #### :busts_in_silhouette: Contributors: <img alt="Contributors" align="center" src="https://badges.pufler.dev/contributors/pauladanielafarias/curso_IA?size=50&padding=5&bots=true">
