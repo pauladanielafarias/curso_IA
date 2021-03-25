@@ -26,7 +26,7 @@
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/Pandas_logo.png"> Pandas
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/Matplotlib_logo.png"> Matplotlib
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/NumPy_logo.png"> NumPy
-    - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/Scikit_learn_logo.png.png"> Scikit-learn
+    - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/Scikit_learn_logo.png"> Scikit-learn
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/TensorFlow_logo.png"> TensorFlow
     - <img width="2%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/OpenCV_logo.png"> OpenCV
 <br>
