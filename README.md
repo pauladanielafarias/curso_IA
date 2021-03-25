@@ -10,12 +10,12 @@
 
 ### Algunos ejercicios que realicé a lo largo del curso de Inteligencia Artificial brindado por BA Ciudad, UTN & Intel.
 
-1. [Introducción a Python](): Notebook que contiene algunos ejercicios para repasar Python.
+1. [Introducción a Python](1. Introduccion a Python): Notebook que contiene algunos ejercicios para repasar Python.
 2. [Datasets](): Notebook en la que se trabaja la importación y procesamiento de datos. Uso de la biblioteca ```pandas```.
 3. [Adquisición de datos](): Notebook en la que se trabaja la adquisición de datos. Uso de las bibliotecas ```pandas```,```numpy```,```matplotlib``` y ```sklearn```.
-4. [Algoritmo Genético](): Notebook de algoritmos genéticos: definición de cómo son los individuos y generación del ciclo (evaluación, selección, cruzamiento, mutación de los individuos). Uso de la biblioteca ```fuzzywuzzy```.
+4. [Algoritmo Genético](4. Algoritmo genetico): Notebook de algoritmos genéticos: definición de cómo son los individuos y generación del ciclo (evaluación, selección, cruzamiento, mutación de los individuos). Uso de la biblioteca ```fuzzywuzzy```.
 5. [Red Neuronal](): Notebook donde se construye una red neuronal simple (una sola neurona). Uso de la biblioteca ```tensorflow```.
-6. [Computer Vision 1](): Notebook de introducción a la visión artificial: utilización de la biblioteca ```opencv``` para ver, modificar y crear imagenes.
+6. [Computer Vision 1](6. Computer Vision 1): Notebook de introducción a la visión artificial: utilización de la biblioteca ```opencv``` para ver, modificar y crear imagenes.
 
 
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/curso_IA/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/curso_IA">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/curso_IA">
