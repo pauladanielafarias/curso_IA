@@ -13,7 +13,7 @@
 1. [Introducción a Python](1.%20Introduccion%20a%20python.ipynb): Notebook que contiene algunos ejercicios para repasar Python.
 2. [Datasets](): Notebook en la que se trabaja la importación y procesamiento de datos. Uso de la biblioteca ```pandas```.
 3. [Adquisición de datos](): Notebook en la que se trabaja la adquisición de datos. Uso de las bibliotecas ```pandas```,```numpy```,```matplotlib``` y ```sklearn```.
-4. [Pandas y plot](): 
+4. [Pandas y plot](4.%Pandas%20y%20plot.ipynb): Notebook en la que se trabaja con un csv e imagenes. Uso de las bibliotecas ```pandas```,```numpy```y```matplotlib```.
 5. [Limpieza de datos](): 
 6. [Normalización](): 
 7. [Algoritmo Genético](7.%20Algoritmo%20Genetico.ipynb): Notebook de algoritmos genéticos: definición de cómo son los individuos y generación del ciclo (evaluación, selección, cruzamiento, mutación de los individuos). Uso de la biblioteca ```fuzzywuzzy```.
