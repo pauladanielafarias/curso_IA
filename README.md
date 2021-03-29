@@ -11,8 +11,8 @@
 ### Algunos ejercicios que realicé a lo largo del curso de Inteligencia Artificial brindado por BA Ciudad, UTN & Intel.
 
 1. [Introducción a Python](1.%20Introduccion%20a%20python.ipynb): Notebook que contiene algunos ejercicios para repasar Python.
-2. [Datasets](): Notebook en la que se trabaja la importación y procesamiento de datos. Uso de la biblioteca ```pandas```.
-3. [Adquisición de datos](): Notebook en la que se trabaja la adquisición de datos. Uso de las bibliotecas ```pandas```, ```numpy```, ```matplotlib``` y ```sklearn```.
+2. [Datasets](): <!--Notebook en la que se trabaja la importación y procesamiento de datos. Uso de la biblioteca ```pandas```.-->
+3. [Adquisición de datos]():<!-- Notebook en la que se trabaja la adquisición de datos. Uso de las bibliotecas ```pandas```, ```numpy```, ```matplotlib``` y ```sklearn```.-->
 4. [Pandas y plot](4.%Pandas%20y%20plot.ipynb): Notebook en la que se trabaja con un csv e imagenes. Uso de las bibliotecas ```pandas```, ```numpy``` y ```matplotlib```.
 5. [Limpieza de datos](): 
 6. [Normalización](): 
