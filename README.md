@@ -19,7 +19,7 @@
 7. [Algoritmo Genético](7.%20Algoritmo%20Genetico.ipynb): Notebook de algoritmos genéticos: definición de cómo son los individuos y generación del ciclo (evaluación, selección, cruzamiento, mutación de los individuos). Uso de la biblioteca ```fuzzywuzzy```.
 8. [Red Neuronal](8.%20Red%20neuronal.ipynb): Notebook donde se construye una red neuronal simple (una sola neurona). Uso de la biblioteca ```tensorflow```.
 9. [Computer Vision 1](9.%20Computer%20Vision%201.ipynb): Notebook de introducción a la visión artificial: utilización de la biblioteca ```opencv``` para ver, modificar y crear imagenes.
-10. [Computer Vision 2](): De la visión artificial tradicional a la inteligencia artificial: utilización de la biblioteca ```opencv``` para seguir trabajando con imagenes.
+10. [Computer Vision 2](): <!--De la visión artificial tradicional a la inteligencia artificial: utilización de la biblioteca ```opencv``` para seguir trabajando con imagenes.-->
 
 
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/curso_IA/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/curso_IA">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/curso_IA">
